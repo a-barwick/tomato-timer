@@ -1,0 +1,16 @@
+{
+  "name": "tomato-timer",
+  "version": "1.0.0",
+  "description": "Pomodoro style timer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Austin Barwick",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
